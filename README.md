@@ -12,4 +12,5 @@
 - Página web ODS
 
 ## 📫 Contacto
-- Email: tucorreo@gmail.com
+- Email:jorge.vilcapuma.t@vallegrande.edu.pe
+
